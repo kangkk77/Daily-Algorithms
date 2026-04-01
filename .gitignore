@@ -1,0 +1,15 @@
+# macOS 系统文件
+.DS_Store
+
+# 编辑器配置
+.vscode/
+
+# 本地测试输入输出数据
+input.txt
+output.txt
+
+# C/C++ 编译生成的临时文件（顺手加上，以后不用愁）
+*.out
+*.exe
+*.o
+*.dSYM/
